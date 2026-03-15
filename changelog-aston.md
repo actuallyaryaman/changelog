@@ -1,3 +1,12 @@
+#### 15-03-26
+- Fix NPE when long pressing notifications
+- March ASB
+- Update firmware/blobs from OOS 16.0.3.500(EX01)
+- Fixed no ringtone while connected to BT
+- Fixed audio issues with USB DACS's during calls
+- Add toggle/qstile for forcing OTG on
+- Remove ltpo toggle
+
 #### 21-02-26
 - initial avium release
 - add bypass charging qs toggle
