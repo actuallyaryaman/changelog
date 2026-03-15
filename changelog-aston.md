@@ -1,3 +1,13 @@
+#### 15-03-26
+- Sync to latest source
+- Fix NPE when long pressing notifications
+- March ASB
+- Update firmware/blobs from OOS 16.0.3.500(EX01)
+- Fixed no ringtone while connected to BT
+- Fixed audio issues with USB DACS's during calls
+- Add toggle/qstile for forcing OTG on
+- Remove ltpo toggle
+
 #### 18-02-26
 - Add bypass charging qs toggle
 
