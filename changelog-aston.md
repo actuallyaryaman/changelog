@@ -1,4 +1,5 @@
 #### 15-03-26
+- Sync to latest source
 - Fix NPE when long pressing notifications
 - March ASB
 - Update firmware/blobs from OOS 16.0.3.500(EX01)
