@@ -1,6 +1,8 @@
+### 06-10-26
+- Added experimental Lindroid support
+- Added an option to remember your auto-rotate preference for each app.
+
 #### 03-10-26
-
-
 - Initial Android 17 build
 - Fix high idle drain
 - Updated blobs/firmware from OOS 16.0.5.1301(EX01)
