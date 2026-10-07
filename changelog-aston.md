@@ -2,7 +2,6 @@
 - Initial A17 Build
 - Added emoji switcher in powerhub
 - Fix high idle drain
-- Updated blobs/firmware from OOS 16.0.5.1301(EX01)
 - Add more slider mode choices
 - Add support for LTPO
 
