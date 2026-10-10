@@ -1,3 +1,8 @@
+### 10-10-26
+- Add separate sound app (utilize your bt and phone speaker at the same time)
+- Add Oplus Stock Camera
+
+
 ### 06-10-26
 - Initial A17 Build
 - Added emoji switcher in powerhub
